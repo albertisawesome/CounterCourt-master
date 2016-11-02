@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\up.WAV",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\src\\main\\res\\raw\\up.WAV"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\down.wav",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\src\\main\\res\\raw\\down.wav"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\reset.WAV",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CounterCourt-master\\app\\src\\main\\res\\raw\\reset.WAV"
+    }
+]
